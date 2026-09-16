@@ -24,7 +24,3 @@ Một project Unity 2D prototype hoàn chỉnh hơn, gom chung:
 - Tiền, chi phí nguyên liệu, giá bán, tip, sao đánh giá, ngày và cấp quán.
 - Nhân vật pixel có animation đi 2 frame theo 4 hướng.
 - Background quán ăn pixel-art.
-- Code gốc được giữ nguyên để đối chiếu.
-
-## Lưu ý
-Đây là bản nền tảng có vòng chơi từ nhận đơn → nấu → phục vụ → nhận tiền. Muốn thành game thương mại hoàn chỉnh còn có thể mở rộng thêm Tilemap, collision, animation nhiều frame, inventory, shop nâng cấp, save/load, âm thanh và build Windows/WebGL.
