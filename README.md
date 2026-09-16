@@ -6,8 +6,6 @@ Một project Unity 2D prototype hoàn chỉnh hơn, gom chung:
 1. Code C# gốc của project `QuanAnViet` trong `Assets/LegacyConsole/`.
 2. Bản Unity Pixel Art trong `Assets/Scripts`, `Assets/Resources/Art` và `Assets/Scenes`.
 
-KHÔNG cần gộp thủ công hai ZIP. Đây là bản đã dồn vào MỘT file ZIP.
-
 ## Chạy game
 - Cài Unity 2022.3 LTS.
 - Unity Hub → Add project from disk → chọn thư mục `QuanAnViet_Complete_Unity`.
